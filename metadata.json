@@ -1,0 +1,6 @@
+{
+  "name": "Low-Poly 3D Modeler",
+  "description": "A lightweight full-featured low-poly 3D modeling web app with vertex selection, face extrusion, color painting, and GLTF export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
